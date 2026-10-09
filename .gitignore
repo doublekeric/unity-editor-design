@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.vs/
+.idea/
+*.user
+*.suo
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
